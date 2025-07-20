@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #e1e1e1;
+  color: #181818;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+select {
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-family: inherit;
+  font-size: 1rem;
+  background-color: white;
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+select:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(232, 101, 61, 0.3); /* #e8653d accent */
+}

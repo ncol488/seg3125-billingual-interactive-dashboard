@@ -1,0 +1,10 @@
+.line-chart-container {
+  width: 100%;
+  height: auto;
+}
+
+.line-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
