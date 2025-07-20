@@ -143,7 +143,7 @@ const BarChartComponent: React.FC<BarChartProps> = ({
               if (typeof value === "string") {
                 return getShortName(value);
               }
-              return ""; // Fallback for non-string values
+              return "";
             }}
             fill="#ffffff"
             fontSize={12}
@@ -160,7 +160,7 @@ const BarChartComponent: React.FC<BarChartProps> = ({
                   ? `${value.toLocaleString()} $`
                   : `$${value.toLocaleString()}`;
               }
-              return ""; // Fallback for non-number values
+              return "";
             }}
             fill="#666"
             fontSize={12}

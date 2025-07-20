@@ -139,8 +139,6 @@ const TuitionDashboard: React.FC = () => {
       fr: "Les programmes comprennent la lutte contre les incendies, le maintien de l'ordre, la sécurité des transports et les services personnels.",
     },
   };
-
-  // Get the current field name based on language
   const getFieldName = (field: string) => {
     if (!isFrench) return field;
     const entry = rawData.find((d) => d["Field of study"] === field);
@@ -252,8 +250,6 @@ const TuitionDashboard: React.FC = () => {
           )}
         </button>
       </div>
-
-      {/* Title and Stat */}
       <div className="intro-section">
         <h1 className="title">{translations.title}</h1>
         <h3>{translations.description}</h3>
@@ -316,7 +312,6 @@ const TuitionDashboard: React.FC = () => {
                 onChange={(e) => setSearchTerm(e.target.value)}
                 onKeyDown={(e) => {
                   if (e.key === "Enter") {
-                    // Search in both English and French names
                     const foundProgram = allPrograms.find((prog) => {
                       const englishMatch = prog
                         .toLowerCase()
@@ -407,10 +402,9 @@ const TuitionDashboard: React.FC = () => {
           </div>
         </div>
       </div>
-      {/* Selected Program Description */}
       <div className="program-description mb-4">
         <h2>{isFrench ? getFieldName(selectedField) : selectedField}</h2>
-        <h3 className="text-sm text-gray-700 leading-snug mt-1">
+        <h3>
           {fieldDescriptions[selectedField]
             ? isFrench
               ? fieldDescriptions[selectedField].fr
@@ -445,8 +439,6 @@ const TuitionDashboard: React.FC = () => {
             isFrench={isFrench}
           />
         </div>
-
-        {/* Line Chart */}
         <div className="chart-card">
           <LineChartComponent
             data={lineData}

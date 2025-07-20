@@ -31,7 +31,7 @@ const LineChartComponent: React.FC<LineChartProps> = ({
       ? "Affiche l'évolution des frais de scolarité pour le domaine d'étude sélectionné."
       : "Displays how tuition fees have changed over time for the selected field of study.",
     tuitionLabel: isFrench ? "Frais" : "Tuition",
-    currencySymbol: isFrench ? "$" : "$", // French Canadian still uses $ prefix
+    currencySymbol: isFrench ? "$" : "$",
     tooltipFormatter: isFrench
       ? (value: number) => `${value.toLocaleString()} $`
       : (value: number) => `$${value.toLocaleString()}`,

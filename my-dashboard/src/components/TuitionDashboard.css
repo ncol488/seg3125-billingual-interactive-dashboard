@@ -40,16 +40,15 @@ p {
   border: none;
   background: transparent;
   color: #333;
-  padding-right: 1.5em; /* space for arrow */
+  padding-right: 1.5em;
   padding-bottom: 0;
   cursor: pointer;
-  appearance: none; /* hides default arrow */
+  appearance: none;
 }
 
 .year-select:hover {
   color: #e06343;
 }
-/* Container needs relative for absolute positioning */
 .title-select-row {
   position: relative;
   display: flex;
@@ -111,7 +110,7 @@ p {
 .charts-container {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1.5rem; /* 6 * 0.25rem = 1.5rem */
+  gap: 1.5rem;
 }
 
 @media (min-width: 768px) {
