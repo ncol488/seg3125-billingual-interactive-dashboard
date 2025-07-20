@@ -14,7 +14,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Total, field of study"
   },
   {
     "REF_DATE": "2021/2022",
@@ -31,7 +32,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Total, field of study"
   },
   {
     "REF_DATE": "2022/2023",
@@ -48,7 +50,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Total, field of study"
   },
   {
     "REF_DATE": "2023/2024",
@@ -65,7 +68,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Total, field of study"
   },
   {
     "REF_DATE": "2024/2025",
@@ -82,7 +86,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Total, field of study"
   },
   {
     "REF_DATE": "2020/2021",
@@ -99,7 +104,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Éducation"
   },
   {
     "REF_DATE": "2021/2022",
@@ -116,7 +122,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Éducation"
   },
   {
     "REF_DATE": "2022/2023",
@@ -133,7 +140,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Éducation"
   },
   {
     "REF_DATE": "2023/2024",
@@ -150,7 +158,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Éducation"
   },
   {
     "REF_DATE": "2024/2025",
@@ -167,7 +176,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Éducation"
   },
   {
     "REF_DATE": "2020/2021",
@@ -184,7 +194,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Arts visuels, arts d'interprétation et technologies des communications"
   },
   {
     "REF_DATE": "2021/2022",
@@ -201,7 +212,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Arts visuels, arts d'interprétation et technologies des communications"
   },
   {
     "REF_DATE": "2022/2023",
@@ -218,7 +230,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Arts visuels, arts d'interprétation et technologies des communications"
   },
   {
     "REF_DATE": "2023/2024",
@@ -235,7 +248,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Arts visuels, arts d'interprétation et technologies des communications"
   },
   {
     "REF_DATE": "2024/2025",
@@ -252,7 +266,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Arts visuels, arts d'interprétation et technologies des communications"
   },
   {
     "REF_DATE": "2020/2021",
@@ -269,7 +284,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Humanities"
   },
   {
     "REF_DATE": "2021/2022",
@@ -286,7 +302,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Humanities"
   },
   {
     "REF_DATE": "2022/2023",
@@ -303,7 +320,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Humanities"
   },
   {
     "REF_DATE": "2023/2024",
@@ -320,7 +338,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Humanities"
   },
   {
     "REF_DATE": "2024/2025",
@@ -337,7 +356,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Humanities"
   },
   {
     "REF_DATE": "2020/2021",
@@ -354,7 +374,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Social and behavioural sciences, and legal studies"
   },
   {
     "REF_DATE": "2021/2022",
@@ -371,7 +392,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Social and behavioural sciences, and legal studies"
   },
   {
     "REF_DATE": "2022/2023",
@@ -388,7 +410,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Social and behavioural sciences, and legal studies"
   },
   {
     "REF_DATE": "2023/2024",
@@ -405,7 +428,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Social and behavioural sciences, and legal studies"
   },
   {
     "REF_DATE": "2024/2025",
@@ -422,7 +446,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Social and behavioural sciences, and legal studies"
   },
   {
     "REF_DATE": "2020/2021",
@@ -439,7 +464,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Law"
   },
   {
     "REF_DATE": "2021/2022",
@@ -456,7 +482,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Law"
   },
   {
     "REF_DATE": "2022/2023",
@@ -473,7 +500,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Law"
   },
   {
     "REF_DATE": "2023/2024",
@@ -490,7 +518,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Law"
   },
   {
     "REF_DATE": "2024/2025",
@@ -507,7 +536,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Law"
   },
   {
     "REF_DATE": "2020/2021",
@@ -524,7 +554,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Affaires, gestion et administration publique"
   },
   {
     "REF_DATE": "2021/2022",
@@ -541,7 +572,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Affaires, gestion et administration publique"
   },
   {
     "REF_DATE": "2022/2023",
@@ -558,7 +590,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Affaires, gestion et administration publique"
   },
   {
     "REF_DATE": "2023/2024",
@@ -575,7 +608,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Affaires, gestion et administration publique"
   },
   {
     "REF_DATE": "2024/2025",
@@ -592,7 +626,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Affaires, gestion et administration publique"
   },
   {
     "REF_DATE": "2020/2021",
@@ -609,7 +644,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Sciences physiques, de la vie et technologies connexes"
   },
   {
     "REF_DATE": "2021/2022",
@@ -626,7 +662,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Sciences physiques, de la vie et technologies connexes"
   },
   {
     "REF_DATE": "2022/2023",
@@ -643,7 +680,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Sciences physiques, de la vie et technologies connexes"
   },
   {
     "REF_DATE": "2023/2024",
@@ -660,7 +698,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Sciences physiques, de la vie et technologies connexes"
   },
   {
     "REF_DATE": "2024/2025",
@@ -677,7 +716,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Sciences physiques, de la vie et technologies connexes"
   },
   {
     "REF_DATE": "2020/2021",
@@ -694,7 +734,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Mathématiques, informatique et sciences de l'information"
   },
   {
     "REF_DATE": "2021/2022",
@@ -711,7 +752,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Mathématiques, informatique et sciences de l'information"
   },
   {
     "REF_DATE": "2022/2023",
@@ -728,7 +770,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Mathématiques, informatique et sciences de l'information"
   },
   {
     "REF_DATE": "2023/2024",
@@ -745,7 +788,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Mathématiques, informatique et sciences de l'information"
   },
   {
     "REF_DATE": "2024/2025",
@@ -762,7 +806,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Mathématiques, informatique et sciences de l'information"
   },
   {
     "REF_DATE": "2020/2021",
@@ -779,7 +824,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Génie"
   },
   {
     "REF_DATE": "2021/2022",
@@ -796,7 +842,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Génie"
   },
   {
     "REF_DATE": "2022/2023",
@@ -813,7 +860,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Génie"
   },
   {
     "REF_DATE": "2023/2024",
@@ -830,7 +878,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Génie"
   },
   {
     "REF_DATE": "2024/2025",
@@ -847,7 +896,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Génie"
   },
   {
     "REF_DATE": "2020/2021",
@@ -864,7 +914,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Architecture"
   },
   {
     "REF_DATE": "2021/2022",
@@ -881,7 +932,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Architecture"
   },
   {
     "REF_DATE": "2022/2023",
@@ -898,7 +950,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Architecture"
   },
   {
     "REF_DATE": "2023/2024",
@@ -915,7 +968,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Architecture"
   },
   {
     "REF_DATE": "2024/2025",
@@ -932,7 +986,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Architecture"
   },
   {
     "REF_DATE": "2020/2021",
@@ -949,7 +1004,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Agriculture, ressources naturelles et conservation"
   },
   {
     "REF_DATE": "2021/2022",
@@ -966,7 +1022,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Agriculture, ressources naturelles et conservation"
   },
   {
     "REF_DATE": "2022/2023",
@@ -983,7 +1040,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Agriculture, ressources naturelles et conservation"
   },
   {
     "REF_DATE": "2023/2024",
@@ -1000,7 +1058,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Agriculture, ressources naturelles et conservation"
   },
   {
     "REF_DATE": "2024/2025",
@@ -1017,7 +1076,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Agriculture, ressources naturelles et conservation"
   },
   {
     "REF_DATE": "2020/2021",
@@ -1034,7 +1094,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Dentisterie"
   },
   {
     "REF_DATE": "2021/2022",
@@ -1051,7 +1112,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Dentisterie"
   },
   {
     "REF_DATE": "2022/2023",
@@ -1068,7 +1130,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Dentisterie"
   },
   {
     "REF_DATE": "2023/2024",
@@ -1085,7 +1148,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Dentisterie"
   },
   {
     "REF_DATE": "2024/2025",
@@ -1102,7 +1166,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Dentisterie"
   },
   {
     "REF_DATE": "2020/2021",
@@ -1119,7 +1184,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Médecine"
   },
   {
     "REF_DATE": "2021/2022",
@@ -1136,7 +1202,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Médecine"
   },
   {
     "REF_DATE": "2022/2023",
@@ -1153,7 +1220,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Médecine"
   },
   {
     "REF_DATE": "2023/2024",
@@ -1170,7 +1238,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Médecine"
   },
   {
     "REF_DATE": "2024/2025",
@@ -1187,7 +1256,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Médecine"
   },
   {
     "REF_DATE": "2020/2021",
@@ -1204,7 +1274,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Sciences infirmières"
   },
   {
     "REF_DATE": "2021/2022",
@@ -1221,7 +1292,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Sciences infirmières"
   },
   {
     "REF_DATE": "2022/2023",
@@ -1238,7 +1310,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Sciences infirmières"
   },
   {
     "REF_DATE": "2023/2024",
@@ -1255,7 +1328,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Sciences infirmières"
   },
   {
     "REF_DATE": "2024/2025",
@@ -1272,7 +1346,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Sciences infirmières"
   },
   {
     "REF_DATE": "2020/2021",
@@ -1289,7 +1364,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Pharmacie"
   },
   {
     "REF_DATE": "2021/2022",
@@ -1306,7 +1382,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Pharmacie"
   },
   {
     "REF_DATE": "2022/2023",
@@ -1323,7 +1400,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Pharmacie"
   },
   {
     "REF_DATE": "2023/2024",
@@ -1340,7 +1418,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Pharmacie"
   },
   {
     "REF_DATE": "2024/2025",
@@ -1357,7 +1436,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Pharmacie"
   },
   {
     "REF_DATE": "2020/2021",
@@ -1374,7 +1454,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Médecine vétérinaire"
   },
   {
     "REF_DATE": "2021/2022",
@@ -1391,7 +1472,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Médecine vétérinaire"
   },
   {
     "REF_DATE": "2022/2023",
@@ -1408,7 +1490,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Médecine vétérinaire"
   },
   {
     "REF_DATE": "2023/2024",
@@ -1425,7 +1508,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Médecine vétérinaire"
   },
   {
     "REF_DATE": "2024/2025",
@@ -1442,7 +1526,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Médecine vétérinaire"
   },
   {
     "REF_DATE": "2020/2021",
@@ -1459,7 +1544,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Optometry"
   },
   {
     "REF_DATE": "2021/2022",
@@ -1476,7 +1562,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Optometry"
   },
   {
     "REF_DATE": "2022/2023",
@@ -1493,7 +1580,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Optometry"
   },
   {
     "REF_DATE": "2023/2024",
@@ -1510,7 +1598,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Optometry"
   },
   {
     "REF_DATE": "2024/2025",
@@ -1527,7 +1616,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Optometry"
   },
   {
     "REF_DATE": "2020/2021",
@@ -1544,7 +1634,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Autres domaines de la santé, du loisir et de la condition physique"
   },
   {
     "REF_DATE": "2021/2022",
@@ -1561,7 +1652,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Autres domaines de la santé, du loisir et de la condition physique"
   },
   {
     "REF_DATE": "2022/2023",
@@ -1578,7 +1670,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Autres domaines de la santé, du loisir et de la condition physique"
   },
   {
     "REF_DATE": "2023/2024",
@@ -1595,7 +1688,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Autres domaines de la santé, du loisir et de la condition physique"
   },
   {
     "REF_DATE": "2024/2025",
@@ -1612,7 +1706,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Autres domaines de la santé, du loisir et de la condition physique"
   },
   {
     "REF_DATE": "2020/2021",
@@ -1629,7 +1724,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Services personnels, de protection et de transport"
   },
   {
     "REF_DATE": "2021/2022",
@@ -1646,7 +1742,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Services personnels, de protection et de transport"
   },
   {
     "REF_DATE": "2022/2023",
@@ -1663,7 +1760,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Services personnels, de protection et de transport"
   },
   {
     "REF_DATE": "2023/2024",
@@ -1680,7 +1778,8 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Services personnels, de protection et de transport"
   },
   {
     "REF_DATE": "2024/2025",
@@ -1697,6 +1796,7 @@
     "STATUS": "",
     "SYMBOL": "",
     "TERMINATED": "",
-    "DECIMALS": 0
+    "DECIMALS": 0,
+    "Field of study (FR)": "Services personnels, de protection et de transport"
   }
 ]
